@@ -1,0 +1,2 @@
+def face():
+  print("GG")
